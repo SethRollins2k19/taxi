@@ -1,0 +1,35 @@
+.Button {
+    cursor: pointer;
+    font-family: Avenir Next Cyr, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #101010;
+    border: none;
+    background: none;
+    text-decoration: none;
+    transition: .3s linear;
+}
+.Button:focus {
+    outline: none;
+}
+
+.ButtonVoid {
+    display: inline-block;
+}
+
+
+.ButtonFilled {
+    width: 100%;
+    padding: 13px 15px 12px;
+    background: #EEC946;
+    box-shadow: 0 5px 15px rgba(238, 201, 70, 0.5);
+    border-radius: 10px;
+}
+
+.ButtonFilled:hover {
+    background: #fcd247;
+}

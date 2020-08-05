@@ -1,0 +1,43 @@
+.TextInput {
+    padding: 16px 16px 14px;
+    font-family: Avenir Next Cyr, "sans-serif";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.015em;
+    color: #3D3D3D;
+    border: none;
+    border-bottom:  1px solid #10101060;
+    transition: .2s linear;
+}
+
+.TextInput::placeholder {
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.015em;
+    color: #3D3D3D;
+    opacity: 0.4;
+}
+
+.TextInput:hover {
+    border-color: #101010;
+}
+
+.TextInput:focus {
+    outline: none;
+    border-color: #101010;
+}
+
+
+
+.Password {
+    position: relative;
+}
+
+.PasswordEye {
+    position: absolute;
+    right: 17.5px;
+    bottom: 12px;
+    cursor: pointer;
+}

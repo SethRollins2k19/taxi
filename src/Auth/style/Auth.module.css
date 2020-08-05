@@ -1,0 +1,14 @@
+.Title {
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 84px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 88px;
+}
+
+.TitleSpan {
+    color: #EEC946;
+}
