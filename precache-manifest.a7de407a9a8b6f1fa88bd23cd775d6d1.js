@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b07ea82bcccf39d7bea552971c9cb75a",
+    "revision": "233622c314934d86722b5dcb2eb3ac75",
     "url": "/taxi/index.html"
   },
   {
-    "revision": "780400271f1566df4f90",
+    "revision": "76c8e1cf0abbac1f967a",
     "url": "/taxi/static/css/main.ebda1fcb.chunk.css"
   },
   {
-    "revision": "95f1fa0c288e96c3ebc1",
-    "url": "/taxi/static/js/2.01ae6c04.chunk.js"
+    "revision": "f9f576973d14058aa58b",
+    "url": "/taxi/static/js/2.6d9c8a09.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/taxi/static/js/2.01ae6c04.chunk.js.LICENSE.txt"
+    "url": "/taxi/static/js/2.6d9c8a09.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "780400271f1566df4f90",
-    "url": "/taxi/static/js/main.03b90040.chunk.js"
+    "revision": "76c8e1cf0abbac1f967a",
+    "url": "/taxi/static/js/main.d99b9e5e.chunk.js"
   },
   {
     "revision": "8dd6db9035e73a7e9242",
