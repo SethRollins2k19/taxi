@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.8eb66522.chunk.css",
-    "main.js": "/static/js/main.b59e4adc.chunk.js",
-    "main.js.map": "/static/js/main.b59e4adc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c0cfca7c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c0cfca7c.js.map",
-    "static/js/2.23cd3231.chunk.js": "/static/js/2.23cd3231.chunk.js",
-    "static/js/2.23cd3231.chunk.js.map": "/static/js/2.23cd3231.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.683066f9c9ff8ba0b6ec333557ac4fe5.js": "/precache-manifest.683066f9c9ff8ba0b6ec333557ac4fe5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8eb66522.chunk.css.map": "/static/css/main.8eb66522.chunk.css.map",
-    "static/js/2.23cd3231.chunk.js.LICENSE.txt": "/static/js/2.23cd3231.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/avenirnextcyr-medium.ee6850e2.woff2",
-    "static/media/arrow.svg": "/static/media/arrow.ae6fd634.svg",
-    "static/media/arrowDown.svg": "/static/media/arrowDown.06f883df.svg",
-    "static/media/searchIcon.svg": "/static/media/searchIcon.21b9d536.svg",
-    "static/media/star.svg": "/static/media/star.faaa6dd9.svg"
+    "main.css": "/taxi/static/css/main.d2c1dced.chunk.css",
+    "main.js": "/taxi/static/js/main.5efc6bfa.chunk.js",
+    "main.js.map": "/taxi/static/js/main.5efc6bfa.chunk.js.map",
+    "runtime-main.js": "/taxi/static/js/runtime-main.f686bdfa.js",
+    "runtime-main.js.map": "/taxi/static/js/runtime-main.f686bdfa.js.map",
+    "static/js/2.23cd3231.chunk.js": "/taxi/static/js/2.23cd3231.chunk.js",
+    "static/js/2.23cd3231.chunk.js.map": "/taxi/static/js/2.23cd3231.chunk.js.map",
+    "index.html": "/taxi/index.html",
+    "precache-manifest.f0579a2c449ea8c2b510ed90cdb71ddb.js": "/taxi/precache-manifest.f0579a2c449ea8c2b510ed90cdb71ddb.js",
+    "service-worker.js": "/taxi/service-worker.js",
+    "static/css/main.d2c1dced.chunk.css.map": "/taxi/static/css/main.d2c1dced.chunk.css.map",
+    "static/js/2.23cd3231.chunk.js.LICENSE.txt": "/taxi/static/js/2.23cd3231.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/taxi/static/media/avenirnextcyr-medium.ee6850e2.woff2",
+    "static/media/arrow.svg": "/taxi/static/media/arrow.ae6fd634.svg",
+    "static/media/arrowDown.svg": "/taxi/static/media/arrowDown.06f883df.svg",
+    "static/media/searchIcon.svg": "/taxi/static/media/searchIcon.21b9d536.svg",
+    "static/media/star.svg": "/taxi/static/media/star.faaa6dd9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0cfca7c.js",
+    "static/js/runtime-main.f686bdfa.js",
     "static/js/2.23cd3231.chunk.js",
-    "static/css/main.8eb66522.chunk.css",
-    "static/js/main.b59e4adc.chunk.js"
+    "static/css/main.d2c1dced.chunk.css",
+    "static/js/main.5efc6bfa.chunk.js"
   ]
 }
